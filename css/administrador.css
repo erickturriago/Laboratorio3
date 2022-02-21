@@ -6,7 +6,7 @@
 
 .form-add{
   width: 400px;
-  background: gray;
+  background:linear-gradient(120deg,#2980b9,#8e44ad);
   padding: 30px;
   margin: auto;
   margin-top: 100px;
@@ -21,7 +21,7 @@
 
 .add{
   width: 100%;
-  background: ;
+  background: #C8DDE1;
   padding: 10px;
   border-radius: 4px;
   margin-bottom: 16px;
